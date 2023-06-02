@@ -1,0 +1,19 @@
+body {
+    position: unset !important;
+    background-color: #E3F4F4;
+}
+.bg-secondary {
+    background-color: #618f8f!important;
+}
+ #send{
+    background-color: #618f8f!important;
+}
+#afot:hover {
+    color: #cfc5e9 !important;
+}
+#footer {
+    background-color: #526D82!important;
+}
+#cop {
+    background-color: #27374D !important;
+}
